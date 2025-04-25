@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "facebook-3.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "my_video.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "e10e3f21d3b4e0f40b04b8fee7f40da4-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
